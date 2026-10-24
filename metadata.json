@@ -1,0 +1,6 @@
+{
+  "name": "Kosmos Arabiya: Petualangan Angka Bintang",
+  "description": "Game petualangan 2D eksplorasi luar angkasa bergaya retro untuk belajar berhitung angka Arab (١-١٠) lengkap dengan cara baca dan panduan audio interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
